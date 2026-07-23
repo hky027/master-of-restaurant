@@ -1,0 +1,23 @@
+{
+    "appid": "2717",
+    "projectname": "Master of Restaurant Management",
+    "unity": {
+        "build": {
+            "webgl": "D:\\douyin\\webgl_package-20260723_105011.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "AndroidNativeOnly",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": null,
+        "unityEngineVersion": "2022.3.58f1c1",
+        "arch": "both"
+    },
+    "setting": {
+        "urlCheck": true
+    }
+}
